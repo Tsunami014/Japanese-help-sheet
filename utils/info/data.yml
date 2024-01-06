@@ -1,0 +1,14 @@
+category:
+  subcategory:
+    thing1: "thing1"
+    thing2: "thing2"
+  other_subcategory:
+    thing3: "thing3"
+    thing4: "thing4"
+other_category:
+  subcategory:
+    thing5: "thing5"
+    thing6: "thing6"
+  other_subcategory:
+    thing7: "thing7"
+    thing8: "thing8"
